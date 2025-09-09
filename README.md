@@ -7,6 +7,7 @@ It includes **data cleaning, calculation of RFM scores (0–9), customer segment
 
 ## 📂 Project Structure
 - `RFM_Analysis.xlsx` – Excel file with Raw, cleaned data, RFM calculations, pivot tables, and segmentation  
+  > ⚠️ **Note:** This file is large (~69 MB) and tracked with **Git LFS**. Make sure Git LFS is installed to clone or download it properly.  
 - `README.md` – Project documentation  
 
 ---
@@ -49,3 +50,4 @@ It includes **data cleaning, calculation of RFM scores (0–9), customer segment
 
 ## 💻 Tools Used
 - Microsoft Excel
+- Git LFS (for large Excel file)
